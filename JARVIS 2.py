@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Sep 10 16:13:53 2022
-
-@author: ABC
-"""
 
 import subprocess
 import wolframalpha
